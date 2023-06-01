@@ -1,3 +1,1 @@
-const namesArray = [
-    "Moshe Ben Baruch",
-];
+const namesArray = ["Moshe Ben Baruch", "Yoni Mor"];
